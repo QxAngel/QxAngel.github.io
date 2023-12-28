@@ -1,0 +1,184 @@
+{
+  "META": {
+    "repoName": "QxAngel Repo",
+    "repoIcon": "https://github.com/QxAngel/QxAngel/assets/136937878/5add8513-66fe-41fe-bd82-7dd9ed45c563"
+  },
+    "Agar.io Mod": [
+    {
+      "name": "Agar.io",
+      "version": "2.26.3",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.3.+xelahot+ctrl+nocrash.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "xelahot + ctrl + nocrash",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
+      "version": "2.26.3",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.3.invisible+xelahot+ctrl+nocrash.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "invisible + xelahot + ctrl + nocrash",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
+      "version": "2.26.3",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/Shit_Fixed.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "macro + xelahot + nocrash + ctrl",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
+      "version": "2.26.3",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.3.igg+xelahot+ctrl+nocrash.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "igg + xelahot + ctrl + nocrash",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
+      "version": "2.26.3",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.3.xelahot+flexzoom+igs+igg+nocrash.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "xelahot + flexzoom + igs + igg + nocrash",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    }
+  ],
+    "Hacked Apps": [
+    {
+      "name": "ESign",
+      "version": "4.8.2",
+      "icon": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/ESign.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "ESign for sign apps/inject tweaks into ipas and install (modificar apps como Nombre, Version, Bundle Identifier).",
+      "bundleID": "com.qxangel.esignpersonal",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Photomath",
+      "version": "8.32.0",
+      "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/76fcb720-7ae8-4e55-9327-7a07ea17abdf",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Photomath.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "Photomath Plus Cracked...",
+      "bundleID": "com.QxAngel.PersonalApp",
+      "appstore": "com.microblink.PhotoMath",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "PicsArt",
+      "version": "23.3.3",
+      "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/4f53d7fe-18a1-4dac-a939-2f9654293ba0",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/PicsArt.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "PicsArt Gold Unlocked",
+      "bundleID": "com.picsart.studio",
+      "appstore": "com.picsart.studio",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Fixtools Box",
+      "version": "3.0",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/FixtoolsBox.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "Netflix+, Apple Tv+, Amazon Prime, Hulu, Disney+, HBO, AMC, Paramount+. All In One App Cracked...",
+      "bundleID": "com.qiyumon.show",
+      "appstore": "com.qiyumon.show",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Spotify",
+      "version": "8.8.78",
+      "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/7f230d8a-ea1a-4242-956d-455c18e46102",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Spotify.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "1.- Premium Features Are Available For Free, 2.- All Kind Of Advertisements Are Removed, 3.- Music And Videos Can Be Played In Full HD Mode, 4.- Skip Unlimited Number Of Tracks, 5.- Import Music From Device Storage To The Spotify...",
+      "bundleID": "com.spotify.client.qxangel",
+      "appstore": "com.spotify.client",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Instagram",
+      "version": "305.0",
+      "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/7ea47326-6e0f-4dd2-969d-f12c52a8533e",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/BHInstagram.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "Hide Ads, No suggested post, Show Like count, Confirm like, Copy description, Download Videos, Save profile image, Keep deleted message, Remove last seen, Remove screenshot alert, Unlimited replay of once story, Disable Story Seen Receipt, Padlock...",
+      "bundleID": "com.burbn.instagram",
+      "appstore": "com.burbn.instagram",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    }
+  ],
+  "Scarlet": [
+    {
+      "name": "Scarlet",
+      "version": "1.0",
+      "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/9ec5e1f9-24b9-4c7e-93b3-f25ec0e5a48d",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Scarlet.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Scarlet",
+      "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "bundleID": "com.QxAngel.PersonalApp.1",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+        }
+    ]
+}
