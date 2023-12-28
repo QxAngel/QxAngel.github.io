@@ -1,0 +1,121 @@
+body {
+    background-color: #1f1f1f;
+    color: red !important;
+}
+
+.card {
+    margin-bottom: 1em;
+}
+
+.thumbnail {
+    margin-bottom: 2em;
+}
+
+.list-group {
+    margin-bottom: 2em;
+}
+
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    color: #4f89bb !important;
+    text-align: left;
+}
+
+.link-item:hover {
+    border: 1px solid #ff0000;
+    background-color: #f5f5f5;
+}
+
+html.can-touch .link-item:hover {
+    background-color: #fff;
+}
+
+html.can-touch .link-item:active {
+    background-color: #f5f5f5;
+}
+
+.fa {
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+#logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.container h1 {
+    display: flex;
+    align-items: center;
+}
+
+.container h1 img {
+    margin-right: 10px;
+}
+
+.container h1 span {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.btn-primary,
+.btn-secondary,
+.custom-btn {
+    background-color: #007bff;
+    color: #ffffff;
+    border: 1px solid #007bff;
+    margin-right: 5px;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover,
+.custom-btn:hover {
+    background-color: #0056b3;
+    border: 1px solid #0056b3;
+}
+
+.btn-primary:active,
+.btn-secondary:active,
+.custom-btn:active {
+    background-color: #004080;
+    border: 1px solid #004080;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1f1f1f;
+        color: white;
+    }
+
+    .card-header {
+        background-color: #2f2f2f;
+    }
+
+    .card-body {
+        background-color: #1f1f1f;
+    }
+
+    .jumbotron {
+        background-color: #2f2f2f;
+    }
+
+    .list-group-item {
+        background-color: #1f1f1f;
+        border-color: #2f2f2f;
+    }
+
+    html.can-touch .link-item:hover {
+        background-color: #1f1f1f;
+    }
+
+    html.can-touch .link-item:active {
+        background-color: #1f1f1f;
+    }
+}
