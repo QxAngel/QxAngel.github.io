@@ -15,7 +15,7 @@ function redirectToApp(link) {
 
 function createCard(imageSrc, version, downloadLink, scarletLink, trollStoreLink) {
     var card = document.createElement("div");
-    card.className = "card";
+    card.className = "card mb-3";
 
     var cardHeader = document.createElement("div");
     cardHeader.className = "card-header";
@@ -36,13 +36,13 @@ function createCard(imageSrc, version, downloadLink, scarletLink, trollStoreLink
     cardBody.appendChild(p);
 
     var downloadButton = document.createElement("a");
-    downloadButton.className = "btn btn-sm btn-primary";
+    downloadButton.className = "btn btn-sm btn-primary mb-2";
     downloadButton.href = downloadLink;
     downloadButton.textContent = "Download";
     cardBody.appendChild(downloadButton);
 
     var scarletButton = document.createElement("button");
-    scarletButton.className = "btn btn-sm btn-secondary";
+    scarletButton.className = "btn btn-sm btn-secondary mb-2";
     scarletButton.textContent = "Scarlet Direct";
     scarletButton.addEventListener("click", function () {
         redirectToApp(scarletLink);
@@ -50,7 +50,7 @@ function createCard(imageSrc, version, downloadLink, scarletLink, trollStoreLink
     cardBody.appendChild(scarletButton);
 
     var trollStoreButton = document.createElement("button");
-    trollStoreButton.className = "btn btn-sm btn-secondary";
+    trollStoreButton.className = "btn btn-sm btn-secondary mb-2";
     trollStoreButton.textContent = "TrollStore Direct";
     trollStoreButton.addEventListener("click", function () {
         redirectToApp(trollStoreLink);
