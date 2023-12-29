@@ -68,17 +68,17 @@ html.can-touch .link-item:active {
 .btn-primary,
 .btn-secondary,
 .custom-btn {
-    background-color: #007bff;
-    color: #ffffff;
-    border: 1px solid #007bff;
-    margin-right: 5px;
+    background-color: #000000;
+    color: #0000ff;
+    border: 2px solid #ff0000;
+    margin-right: 3px;
 }
 
 .btn-primary:hover,
 .btn-secondary:hover,
 .custom-btn:hover {
-    background-color: #0056b3;
-    border: 1px solid #0056b3;
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
 }
 
 .btn-primary:active,
@@ -118,4 +118,14 @@ html.can-touch .link-item:active {
     html.can-touch .link-item:active {
         background-color: #1f1f1f;
     }
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-description {
+    margin-top: 10px;
+    color: #666;
 }
