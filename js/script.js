@@ -24,7 +24,7 @@ function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink,
 
     var cardHeader = document.createElement("div");
     cardHeader.className = "card-header";
-    cardHeader.textContent = "Vista previa - " + appName;
+    cardHeader.textContent = "AppName: " + appName;
     card.appendChild(cardHeader);
 
     var cardBody = document.createElement("div");
