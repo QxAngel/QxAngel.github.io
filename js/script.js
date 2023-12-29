@@ -18,13 +18,13 @@ function redirectToApp(link) {
     window.location.href = link;
 }
 
-function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink, localizedDescription) {
+function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink, localizedDescription, appName) {
     var card = document.createElement("div");
     card.className = "card mb-3";
 
     var cardHeader = document.createElement("div");
     cardHeader.className = "card-header";
-    cardHeader.textContent = "Vista previa:";
+    cardHeader.textContent = "Vista previa - " + appName;
     card.appendChild(cardHeader);
 
     var cardBody = document.createElement("div");
@@ -40,10 +40,9 @@ function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink,
     p.textContent = "Version: " + version;
     cardBody.appendChild(p);
 
-    // Restaurar la descripción
-    var description = document.createElement("p");
-    description.textContent = localizedDescription;
-    cardBody.appendChild(description);
+    var descriptionLabel = document.createElement("p");
+    descriptionLabel.textContent = "Description: " + localizedDescription;
+    cardBody.appendChild(descriptionLabel);
 
     var downloadButton = document.createElement("a");
     downloadButton.className = "btn btn-sm btn-primary mb-2";
@@ -100,7 +99,8 @@ function processJsonData(data) {
             app.downloadURL,
             app.scarletLink,
             app.trollStoreLink,
-            app.localizedDescription
+            app.localizedDescription,
+            app.name
         );
         cardsContainer.appendChild(card);
     });
