@@ -6,6 +6,20 @@
     "Agar.io Mod": [
     {
       "name": "Agar.io",
+      "version": "2.26.5",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.5.anarky+xelahot.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "anarky + xelahot",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
       "version": "2.26.3",
       "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.3.+xelahot+ctrl+nocrash.ipa",
       "dev": "@6ky_l-Team",
