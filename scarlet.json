@@ -6,8 +6,8 @@
     "Agar.io Mod": [
     {
       "name": "Agar.io",
-      "version": "2.26.8",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.8.anarky.ipa",
+      "version": "2.26.9",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.9.anarky.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
       "description": "anarky",
@@ -20,8 +20,8 @@
     },
     {
       "name": "Agar.io",
-      "version": "2.26.8",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.8.anarky+xelahot.ipa",
+      "version": "2.26.9",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.9.anarky+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
       "description": "anarky + xelahot",
@@ -34,8 +34,8 @@
     },
     {
       "name": "Agar.io",
-      "version": "2.26.8",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.8.macro+anarky+xelahot.ipa",
+      "version": "2.26.9",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.9.macro+anarky+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
       "description": "macro + anarky + xelahot",
@@ -48,8 +48,8 @@
     },
     {
       "name": "Agar.io",
-      "version": "2.26.8",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.8.anarky+igs+igg+flexzoom+xelahot.ipa",
+      "version": "2.26.9",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.9.anarky+igs+igg+flexzoom+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
       "description": "anarky + iosgods + igg + flexzoom + xelahot",
@@ -62,8 +62,8 @@
     },
     {
       "name": "Agar.io",
-      "version": "2.26.8",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.8.anarky+igg+xelahot.ipa",
+      "version": "2.26.9",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.26.9.anarky+igg+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
       "description": "anarky + igg + xelahot",
@@ -78,13 +78,13 @@
     "Hacked Apps": [
     {
       "name": "ESign",
-      "version": "4.8.2",
+      "version": "5.0.2",
       "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/392477a6-a78c-42b4-8eb1-ca521924cdb9",
       "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/ESign.ipa",
       "dev": "@6ky_l-Team",
       "category": "Hacked Apps",
       "description": "ESign for sign apps/inject tweaks into ipas and install (modificar apps como Nombre, Version, Bundle Identifier).",
-      "bundleID": "com.qxangel.esignpersonal",
+      "bundleID": "p3.xyz.yyyue.esign",
       "contact": {
         "web": "https://qxangel.github.io",
         "PayPal": "https://www.paypal.me/onlykex1"
