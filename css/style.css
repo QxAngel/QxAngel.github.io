@@ -28,16 +28,16 @@ body {
 }
 
 .link-item:hover {
-    border: 1px solid #ff0000;
+    border: 1px solid #f5f5f5;
     background-color: #f5f5f5;
 }
 
 html.can-touch .link-item:hover {
-    background-color: #fff;
+    background-color: #ff000;
 }
 
 html.can-touch .link-item:active {
-    background-color: #f5f5f5;
+    background-color: #ff000;
 }
 
 .fa {
@@ -69,8 +69,8 @@ html.can-touch .link-item:active {
 .btn-secondary,
 .custom-btn {
     background-color: #000000;
-    color: #0000ff;
-    border: 1px solid #ff0000;
+    color: #ff0000;
+    border: 1px solid #ffffff;
     margin-right: 3px;
 }
 
@@ -78,7 +78,7 @@ html.can-touch .link-item:active {
 .btn-secondary:hover,
 .custom-btn:hover {
     background-color: #ff0000;
-    border: 1px solid #ff0000;
+    border: 1px solid #ffffff;
 }
 
 .btn-primary:active,
@@ -95,7 +95,7 @@ html.can-touch .link-item:active {
     }
 
     .card-header {
-        background-color: #2f2f2f;
+        background-color: #000000;
     }
 
     .card-body {
@@ -126,6 +126,6 @@ html.can-touch .link-item:active {
 }
 
 .card-description {
-    margin-top: 10px;
+    margin-top: 20px;
     color: #666;
 }
