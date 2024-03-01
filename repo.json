@@ -6,6 +6,20 @@
     "sourceURL": "https://qxangel.github.io/repo.json",
     "apps": [
         {
+            "name": "QXDecrypt",
+            "bundleIdentifier": "com.qxangel.qxderypt",
+            "developerName": "@6ky_l-Team",
+            "version": "1.0",
+            "versionDate": "2024-02-29",
+            "downloadURL": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/QxDecrypt.tipa",
+            "localizedDescription": "an awesome app to decrypt applications installed on the device in .ipa files... NOTE: ONLY WORKS WITH TROLSTORE",
+            "iconURL": "https://github.com/QxAngel/QxAngel/assets/136937878/63b62095-f013-493e-b504-4c59113a70da",
+            "tintColor": "FF0000",
+            "size": 1000000,
+            "screenshotURLs": [
+            ]
+        },
+        {
             "name": "Agar.io",
             "bundleIdentifier": "com.miniclip.agar.io",
             "developerName": "@6ky_l-Team",
