@@ -7,10 +7,10 @@
     {
       "name": "Agar.io",
       "version": "2.27.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.27.0.anarky.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
-      "description": "anarky",
+      "description": "xelahot",
       "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
@@ -21,10 +21,10 @@
     {
       "name": "Agar.io",
       "version": "2.27.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.27.0.anarky+xelahot.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.xelahot+ctrl+nocrash.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
-      "description": "anarky + xelahot",
+      "description": "xelahot + ctrl + nocrash",
       "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
@@ -35,10 +35,10 @@
     {
       "name": "Agar.io",
       "version": "2.27.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.27.0.macro+anarky+xelahot.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.xelahot+nocrash.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
-      "description": "macro + anarky + xelahot",
+      "description": "xelahot + nocrash",
       "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
@@ -49,10 +49,10 @@
     {
       "name": "Agar.io",
       "version": "2.27.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.27.0.anarky+igs+igg+flexzoom+xelahot.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.macro+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
-      "description": "anarky + iosgods + igg + flexzoom + xelahot",
+      "description": "macro + xelahot",
       "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
@@ -63,10 +63,24 @@
     {
       "name": "Agar.io",
       "version": "2.27.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/2.27.0.anarky+igg+xelahot.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.macro+igg+xelahot.ipa",
       "dev": "@6ky_l-Team",
       "category": "Agar.io Mod",
-      "description": "anarky + igg + xelahot",
+      "description": "macro + igg + xelahot",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
+      "name": "Agar.io",
+      "version": "2.27.0",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.igs+igg+flexzoom+xelahot.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "igs + igg + flexzoom + xelahot",
       "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
