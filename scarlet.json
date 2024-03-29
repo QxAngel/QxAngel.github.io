@@ -5,6 +5,21 @@
   },
     "Agar.io Mod": [
     {
+
+      "name": "Agar.io",
+      "version": "2.27.1",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.1.anarky-fix.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Agar.io Mod",
+      "description": "anarky only, (UI BUGS)",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {
       "name": "Agar.io",
       "version": "2.27.0",
       "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/3/2.27.0.xelahot.ipa",
