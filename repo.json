@@ -6,6 +6,20 @@
     "sourceURL": "https://qxangel.github.io/repo.json",
     "apps": [
         {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "@6ky_l-Team",
+            "version": "328.1.3",
+            "versionDate": "2024-04-26",
+            "downloadURL": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Instagram.ipa",
+            "localizedDescription": "Hide Ads, No suggested post, Show Like count, Confirm like, Copy description, Download Videos, Save profile image, Keep deleted message, Remove last seen, Remove screenshot alert, Unlimited replay of once story, Disable Story Seen Receipt, Padlock...",
+            "iconURL": "https://github.com/QxAngel/QxAngel/assets/136937878/9e68d149-64be-4143-8b8c-e7369081b9be",
+            "tintColor": "FF0000",
+            "size": 130000000,
+            "screenshotURLs": [
+            ]
+        },
+        {
            "name": "Agar.io",
             "bundleIdentifier": "com.miniclip.agar.io",
             "developerName": "@6ky_l-Team",
