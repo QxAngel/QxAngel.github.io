@@ -174,20 +174,6 @@
             ]
         },
         {
-            "name": "Instagram",
-            "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "@6ky_l-Team",
-            "version": "305.0",
-            "versionDate": "2023-10-21",
-            "downloadURL": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/BHInstagram.ipa",
-            "localizedDescription": "Hide Ads, No suggested post, Show Like count, Confirm like, Copy description, Download Videos, Save profile image, Keep deleted message, Remove last seen, Remove screenshot alert, Unlimited replay of once story, Disable Story Seen Receipt, Padlock...",
-            "iconURL": "https://github.com/QxAngel/QxAngel/assets/136937878/8442a0ba-f66d-4211-b378-3cd33f825a1d",
-            "tintColor": "FF0000",
-            "size": 130000000,
-            "screenshotURLs": [
-            ]
-        },
-        {
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client.qxangel",
             "developerName": "@6ky_l-Team",
