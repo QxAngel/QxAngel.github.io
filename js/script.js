@@ -7,10 +7,10 @@ function copyToClipboard(text) {
     document.body.removeChild(dummyInput);
 
     var copyButton = document.querySelector(".btn-primary");
-    copyButton.textContent = "Enlace Copiado!";
+    copyButton.textContent = "Copied to clipboard!";
 
     setTimeout(function () {
-        copyButton.textContent = "Copiar Enlace";
+        copyButton.textContent = "Copy URL";
     }, 10000);
 }
 
