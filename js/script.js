@@ -34,7 +34,7 @@ function createCard(imageSrc, version, downloadURL, localizedDescription, appNam
     img.src = imageSrc;
     img.alt = "Vista previa";
     img.style.maxWidth = "50%";
-    img.style.borderRadius = "8px";
+    img.style.borderRadius = "30px";
     cardBody.appendChild(img);
 
     var p = document.createElement("p");
