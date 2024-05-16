@@ -18,13 +18,13 @@ function redirectToApp(link) {
     window.location.href = link;
 }
 
-function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink, localizedDescription, appName) {
+function createCard(imageSrc, version, downloadURL, localizedDescription, appName, versionDate) {
     var card = document.createElement("div");
     card.className = "card mb-3";
 
     var cardHeader = document.createElement("div");
     cardHeader.className = "card-header";
-    cardHeader.textContent = "AppName: " + appName;
+    cardHeader.textContent = "AppName:  " + appName;
     card.appendChild(cardHeader);
 
     var cardBody = document.createElement("div");
@@ -37,12 +37,16 @@ function createCard(imageSrc, version, downloadURL, scarletLink, trollStoreLink,
     cardBody.appendChild(img);
 
     var p = document.createElement("p");
-    p.textContent = "Version: " + version;
+    p.textContent = "Version:  " + version;
     cardBody.appendChild(p);
 
     var descriptionLabel = document.createElement("p");
-    descriptionLabel.textContent = "Description: " + localizedDescription;
+    descriptionLabel.textContent = "Description:  " + localizedDescription;
     cardBody.appendChild(descriptionLabel);
+
+    var dateLabel = document.createElement("p");
+    dateLabel.textContent = "Upload date:  " + versionDate;
+    cardBody.appendChild(dateLabel);
 
     var downloadButton = document.createElement("a");
     downloadButton.className = "btn btn-sm btn-primary mb-2";
@@ -89,19 +93,20 @@ window.onload = function () {
 
 function processJsonData(data) {
     var apps = data.apps;
-
     var cardsContainer = document.querySelector(".cards-container");
+
+    apps.sort((a, b) => new Date(b.versionDate) - new Date(a.versionDate));
 
     apps.forEach(function (app) {
         var card = createCard(
             app.iconURL,
             app.version,
             app.downloadURL,
-            app.scarletLink,
-            app.trollStoreLink,
             app.localizedDescription,
-            app.name
+            app.name,
+            app.versionDate
         );
+
         cardsContainer.appendChild(card);
     });
-};
+}
