@@ -7,7 +7,7 @@ function copyToClipboard(text) {
     document.body.removeChild(dummyInput);
 
     var copyButton = document.querySelector(".btn-primary");
-    copyButton.textContent = "Copied to clipboard!";
+    copyButton.textContent = "Copied!";
 
     setTimeout(function () {
         copyButton.textContent = "Copy URL";
@@ -24,7 +24,7 @@ function createCard(imageSrc, version, downloadURL, localizedDescription, appNam
 
     var cardHeader = document.createElement("div");
     cardHeader.className = "card-header";
-    cardHeader.textContent = "AppName:  " + appName;
+    cardHeader.textContent = "AppName :  " + appName;
     card.appendChild(cardHeader);
 
     var cardBody = document.createElement("div");
@@ -38,15 +38,15 @@ function createCard(imageSrc, version, downloadURL, localizedDescription, appNam
     cardBody.appendChild(img);
 
     var p = document.createElement("p");
-    p.textContent = "Version:  " + version;
+    p.textContent = "Version :  " + version;
     cardBody.appendChild(p);
 
     var descriptionLabel = document.createElement("p");
-    descriptionLabel.textContent = "Description:  " + localizedDescription;
+    descriptionLabel.textContent = "Description :  " + localizedDescription;
     cardBody.appendChild(descriptionLabel);
 
     var dateLabel = document.createElement("p");
-    dateLabel.textContent = "Upload date:  " + versionDate;
+    dateLabel.textContent = "Upload date :  " + versionDate;
     cardBody.appendChild(dateLabel);
 
     var downloadButton = document.createElement("a");
