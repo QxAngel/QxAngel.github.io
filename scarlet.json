@@ -162,12 +162,12 @@
     "Hacked Apps": [
     {
       "name": "Instagram",
-      "version": "333.1.4",
+      "version": "352.2.0",
       "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/9e68d149-64be-4143-8b8c-e7369081b9be",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Regram_1.0.b7_333.1.4.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Instagram.ipa",
       "dev": "@6ky_l-Team",
       "category": "Hacked Apps",
-      "description": "Regram_1.0.b7_333.1.4",
+      "description": "Regram_1.0.b10",
       "bundleID": "com.burbn.instagram",
       "appstore": "com.burbn.instagram",
       "contact": {
@@ -219,13 +219,13 @@
       }
     },
     {
-      "name": "Fixtools Box",
-      "version": "3.0",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/FixtoolsBox.ipa",
+      "name": "HD Flix",
+      "version": "4.0",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/HDFlix.ipa",
       "dev": "@6ky_l-Team",
       "category": "Hacked Apps",
       "description": "Netflix+, Apple Tv+, Amazon Prime, Hulu, Disney+, HBO, AMC, Paramount+. All In One App Cracked...",
-      "bundleID": "com.novieplay.infos",
+      "bundleID": "com.qxangel.dev",
       "contact": {
         "web": "https://qxangel.github.io",
         "PayPal": "https://www.paypal.me/onlykex1"
@@ -233,13 +233,13 @@
     },
     {
       "name": "Spotify",
-      "version": "8.8.78",
+      "version": "8.9.82",
       "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/1663d04b-6496-4dd8-adbf-3453f6174e9c",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/Spotify.ipa",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/EeveeSpotify.ipa",
       "dev": "@6ky_l-Team",
       "category": "Hacked Apps",
-      "description": "1.- Premium Features Are Available For Free, 2.- All Kind Of Advertisements Are Removed, 3.- Music And Videos Can Be Played In Full HD Mode, 4.- Skip Unlimited Number Of Tracks, 5.- Import Music From Device Storage To The Spotify...",
-      "bundleID": "com.spotify.client.qxangel",
+      "description": "EeveeSpotify This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics",
+      "bundleID": "com.spotify.client",
       "appstore": "com.spotify.client",
       "contact": {
         "web": "https://qxangel.github.io",
