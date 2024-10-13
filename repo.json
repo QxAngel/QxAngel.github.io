@@ -217,7 +217,7 @@
         },
         {
             "name": "Photomath",
-            "bundleIdentifier": "com.QxAngel.PersonalApp",
+            "bundleIdentifier": "com.microblink.PhotoMath",
             "developerName": "@6ky_l-Team",
             "version": "8.40.1",
             "versionDate": "2024-10-12",
