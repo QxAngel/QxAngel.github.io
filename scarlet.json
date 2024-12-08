@@ -175,6 +175,20 @@
   ],
     "Hacked Apps": [
     {
+      "name": "Minecraft",
+      "version": "1.21.50.07",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/1(Minecraft.ipa",
+      "dev": "@6ky_l-Team",
+      "category": "Hacked Apps",
+      "description": "Minecraft Free, Paid on AppStore SUPPORT SIGN IN ONLY FOR TrollStore",
+      "bundleID": "com.mojang.minecraftpe",
+      "appstore": "com.mojang.minecraftpe",
+      "contact": {
+        "web": "https://qxangel.github.io",
+        "PayPal": "https://www.paypal.me/onlykex1"
+      }
+    },
+    {  
       "name": "Instagram",
       "version": "352.2.0",
       "icon": "https://github.com/QxAngel/QxAngel/assets/136937878/9e68d149-64be-4143-8b8c-e7369081b9be",
