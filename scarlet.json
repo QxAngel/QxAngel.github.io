@@ -20,12 +20,12 @@
     },
     {  
       "name": "Agar.io",
-      "version": "2.28.8",
+      "version": "2.28.9",
       "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/KCrack_2.28.9.ipa",
       "dev": "@ytb.shark",
       "category": "Agar.io Mod",
-      "description": " Kahraba mod cracked Free",
-      "bundleID": "com.miniclip.agar.io.kcrack",
+      "description": " Kahraba mod cracked free",
+      "bundleID": "com.miniclip.agar.io",
       "appstore": "com.miniclip.agar.io",
       "contact": {
         "web": "https://qxangel.github.io",
