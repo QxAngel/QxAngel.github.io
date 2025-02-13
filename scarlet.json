@@ -6,8 +6,8 @@
     "Agar.io Mod": [
     {
       "name": "Agar.io",
-      "version": "2.28.9",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/SharkMod_1.6.0.ipa",
+      "version": "2.28.10",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/SharkMod_1.7.0.ipa",
       "dev": "@ytb.shark",
       "category": "Agar.io Mod",
       "description": "Shark mod",
@@ -20,9 +20,9 @@
     },
     {  
       "name": "Agar.io",
-      "version": "2.28.9",
-      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/KCrack_2.28.9.ipa",
-      "dev": "@ytb.shark",
+      "version": "2.28.10",
+      "down": "https://github.com/QxAngel/qxangel.github.io/releases/download/2/KCrack_2.28.10.ipa",
+      "dev": "@6ky_l",
       "category": "Agar.io Mod",
       "description": " Kahraba mod cracked free",
       "bundleID": "com.miniclip.agar.io",
